@@ -15,8 +15,7 @@
 let x = 1
 while (x != 6) {
 x = Math.floor(Math.random() * 10)
-console.log(x)
+console.log(x)}
 while (x = 6) {
     console.log("x is 6")
-}
 }
